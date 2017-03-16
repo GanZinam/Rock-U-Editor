@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 240bf3300fc73c24588b6443bdca3f61
+timeCreated: 1464867631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Layer-3_0
+    21300002: Layer-3_1
+    21300004: Layer-3_2
+    21300006: Layer-3_3
+    21300008: Layer-3_4
+    21300010: Layer-3_5
+    21300012: Layer-3_6
+    21300014: Layer-3_7
+    21300016: Layer-3_8
+    21300018: Layer-3_9
+    21300020: Layer-3_10
+    21300022: Layer-3_11
+    21300024: Layer-3_12
+    21300026: Layer-3_13
+    21300028: Layer-3_14
+    21300030: Layer-3_15
+    21300032: Layer-3_16
+    21300034: Layer-3_17
+    21300036: Layer-3_18
+    21300038: Layer-3_19
+    21300040: Layer-3_20
+    21300042: Layer-3_21
+    21300044: Layer-3_22
+    21300046: Layer-3_23
+    21300048: Layer-3_24
+    21300050: Layer-3_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Layer-3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33}
+        - {x: -75, y: -26}
+        - {x: -69, y: -33}
+        - {x: 72, y: -33}
+        - {x: 75, y: -32}
+        - {x: 75, y: 33}
+    - name: Layer-3_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 426
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33}
+        - {x: -75, y: -26}
+        - {x: -69, y: -33}
+        - {x: 72, y: -33}
+        - {x: 75, y: -32}
+        - {x: 75, y: 33}
+    - name: Layer-3_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 426
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33}
+        - {x: -75, y: -26}
+        - {x: -69, y: -33}
+        - {x: 72, y: -33}
+        - {x: 75, y: -32}
+        - {x: 75, y: 33}
+    - name: Layer-3_3
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 426
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33}
+        - {x: -75, y: -26}
+        - {x: -69, y: -33}
+        - {x: 72, y: -33}
+        - {x: 75, y: -32}
+        - {x: 75, y: 33}
+    - name: Layer-3_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 426
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33}
+        - {x: -75, y: -29}
+        - {x: -74, y: -33}
+        - {x: 67, y: -33}
+        - {x: 75, y: -26}
+        - {x: 75, y: 33}
+    - name: Layer-3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -28.5}
+        - {x: -70, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_6
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 342
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -28.5}
+        - {x: -70, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 342
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -28.5}
+        - {x: -70, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 342
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -28.5}
+        - {x: -70, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_9
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 342
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 33.5}
+        - {x: -75, y: 26.5}
+        - {x: -75, y: -27.5}
+        - {x: -68, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 32.5}
+        - {x: 74, y: 33.5}
+    - name: Layer-3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 258
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 258
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_13
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 258
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_14
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 258
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: 33.5}
+        - {x: -75, y: 30.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -26.5}
+        - {x: -67, y: -33.5}
+        - {x: 69, y: -33.5}
+        - {x: 75, y: -27.5}
+        - {x: 75, y: 28.5}
+        - {x: 73, y: 33.5}
+    - name: Layer-3_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 174
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -26.5}
+        - {x: -67, y: -33.5}
+        - {x: 69, y: -33.5}
+        - {x: 75, y: -27.5}
+        - {x: 75, y: 28.5}
+        - {x: 73, y: 33.5}
+    - name: Layer-3_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 174
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -26.5}
+        - {x: -67, y: -33.5}
+        - {x: 69, y: -33.5}
+        - {x: 75, y: -27.5}
+        - {x: 75, y: 28.5}
+        - {x: 73, y: 33.5}
+    - name: Layer-3_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 174
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -26.5}
+        - {x: -67, y: -33.5}
+        - {x: 69, y: -33.5}
+        - {x: 75, y: -27.5}
+        - {x: 75, y: 28.5}
+        - {x: 73, y: 33.5}
+    - name: Layer-3_19
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 174
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 33.5}
+    - name: Layer-3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 28.5}
+        - {x: 74, y: 33.5}
+    - name: Layer-3_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 90
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 28.5}
+        - {x: 74, y: 33.5}
+    - name: Layer-3_22
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 90
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 28.5}
+        - {x: 74, y: 33.5}
+    - name: Layer-3_23
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 90
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33.5}
+        - {x: -75, y: -33.5}
+        - {x: 75, y: -33.5}
+        - {x: 75, y: 28.5}
+        - {x: 74, y: 33.5}
+    - name: Layer-3_24
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 90
+        width: 150
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 33.5}
+        - {x: -75, y: 26.5}
+        - {x: -75, y: -26.5}
+        - {x: -68, y: -33.5}
+        - {x: 71, y: -33.5}
+        - {x: 75, y: -25.5}
+        - {x: 75, y: 27.5}
+        - {x: 65, y: 33.5}
+    - name: Layer-3_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 150
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: 33}
+        - {x: -75, y: -28}
+        - {x: -72, y: -33}
+        - {x: 70, y: -33}
+        - {x: 75, y: -27}
+        - {x: 75, y: 26}
+        - {x: 73, y: 33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
